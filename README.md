@@ -1,6 +1,6 @@
 # vortex-toolchain-prebuilt
 
-To extract the prebuilt files, first we need to extract them:
+To use the prebuilt files, first we need to extract them:
 ## llvm-riscv
       Step 1:
       cat llvm-riscv* > llvm-riscv.tar.gz
